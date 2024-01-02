@@ -33,10 +33,9 @@
 
 
 
-## Output:
 
 ### Name:A.K.PREETHI
-### Register Number:23013312
+### Register Number:212223230156
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
